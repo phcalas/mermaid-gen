@@ -1,3 +1,6 @@
+# Genrated with IA
+
+```mermaid
 sequenceDiagram
 autonumber
 
@@ -45,3 +48,4 @@ SYS-->>SD: SensorEvt
 Note over PS: Evt("StopMotor")\nPetriSimulation
 PSe->>DR: SendMsg("StopMotor")
 DR->>CA: CallFunction("S
+```
